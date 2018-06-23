@@ -11,8 +11,8 @@ strong {line-height: 200%; }
 .googleCalendar{
   position: relative;
   height: 0;
-  width: 100%;
   padding-bottom: 50%;
+  overflow: hidden;
 }
 
 .googleCalendar iframe{
