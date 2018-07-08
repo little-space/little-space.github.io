@@ -1,0 +1,10 @@
+h3, h5 { text-align: center; }
+p { text-align: center; font-size: 90% }
+p.smaller { font-size: 80%; }
+img { max-width: 100%; height: auto; }
+strong { line-height: 200%; }
+@media only screen and (min-width:400px) {
+	img { max-width: 400px; height: auto; }
+}
+.responsive-iframe-container { padding-bottom: 500px; width: 100%; }
+.responsive-iframe-container iframe { margin: 0 auto; display: block; }
