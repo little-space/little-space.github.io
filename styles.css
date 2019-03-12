@@ -1,4 +1,4 @@
-h3, h5 { text-align: center; }
+h3, h4, h5 { text-align: center; }
 p { text-align: center; font-size: 90% }
 p.smaller { font-size: 80%; }
 img { max-width: 100%; height: auto; }
